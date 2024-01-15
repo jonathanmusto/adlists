@@ -1,0 +1,15 @@
+# Channel 4 - https://www.reddit.com/r/pihole/comments/115fpng/blocklist_for_channel4_on_smart_tv/
+
+ads.channel4.com
+cdn.http.anno.channel4.com
+cdn.ss.anno.channel4.com
+channel4.com.112.2o7.net
+channel4.com.sc.omtrdc.net
+channel4.com.ssl.sc.omtrdc.net
+ic.channel4.com
+monitor.channel4.com
+sexperienceuk.channel4.com
+webstat.channel4.com
+webstats.channel4.com
+
+# ITV - TBD
