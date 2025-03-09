@@ -11,5 +11,15 @@ monitor.channel4.com
 sexperienceuk.channel4.com
 webstat.channel4.com
 webstats.channel4.com
+cws.conviva.com
+appgw.conviva.com
 
 # ITV - TBD
+tom.itv.com
+mp.adverts.itv.com
+cpt.itv.com
+toots-a.akamaihd.net
+api.lab.eu.amplitude.com
+822d428ad6a0a99e585ae79b04746ccfc541cad1.cws.conviva.com
+ar.prd.content.itv.com
+europe-west1-itv-ds-prd.cloudfunctions.net
